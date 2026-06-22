@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="home_title">Home Activity</string>
+    <string name="workout_title">Workout Activity</string>
+    <string name="summary_title">Summary Activity</string>
+    <string name="go_home">Go to Home</string>
+    <string name="go_workout">Go to Workout</string>
+    <string name="go_summary">Go to Summary</string>
+    <string name="email_hint">Enter email to persist on rotation</string>
+    <string name="resume_message">Activity is currently in onResume() state</string>
+    <string name="status_active">Status: Active</string>
+    <string name="user_name">Alex Fitness</string>
+    <string name="back_confirm_title">Exit Workout?</string>
+    <string name="back_confirm_message">Do you want to navigate back from WorkoutActivity?</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_no">No</string>
+</resources>
